@@ -1,8 +1,9 @@
 {
-  "homepage": "http://granddaddan.github.io/Task-Tracker-React-App",
+  "homepage": "https://granddaddan.github.io/task-tracker-react-app",
   "name": "react-task-tracker",
   "version": "0.1.0",
   "private": true,
+
   "dependencies": {
     "cra-template": "1.2.0",
     "json-server": "^0.17.4",
