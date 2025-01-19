@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Task-Tracker-React-App/static/css/main.4c567228.css",
-    "main.js": "/Task-Tracker-React-App/static/js/main.2138b7b4.js",
-    "static/js/488.aafbb5f7.chunk.js": "/Task-Tracker-React-App/static/js/488.aafbb5f7.chunk.js",
-    "index.html": "/Task-Tracker-React-App/index.html",
-    "main.4c567228.css.map": "/Task-Tracker-React-App/static/css/main.4c567228.css.map",
-    "main.2138b7b4.js.map": "/Task-Tracker-React-App/static/js/main.2138b7b4.js.map",
-    "488.aafbb5f7.chunk.js.map": "/Task-Tracker-React-App/static/js/488.aafbb5f7.chunk.js.map"
+    "main.css": "./static/css/main.4c567228.css",
+    "main.js": "./static/js/main.9f2d38ca.js",
+    "static/js/488.aafbb5f7.chunk.js": "./static/js/488.aafbb5f7.chunk.js",
+    "index.html": "./index.html",
+    "main.4c567228.css.map": "./static/css/main.4c567228.css.map",
+    "main.9f2d38ca.js.map": "./static/js/main.9f2d38ca.js.map",
+    "488.aafbb5f7.chunk.js.map": "./static/js/488.aafbb5f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c567228.css",
-    "static/js/main.2138b7b4.js"
+    "static/js/main.9f2d38ca.js"
   ]
 }
