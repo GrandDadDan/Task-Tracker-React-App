@@ -6,7 +6,7 @@ const Footer = () => {
         <a href="/about">About</a>
       </footer>
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
